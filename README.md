@@ -3,8 +3,8 @@
 
 <p>Programa simples em Python de extrato bancário</p>
 
-<p>Arquivo Main.py é o arquivo do desafio 1 - criar um sistema bancário</p>
-<p>Arquivo Optmus_Main.py é o arquivo do desafio 2 - Otimizar o sistema bancário</p>
+<p>Arquivo <span style="color: red;"><b>Main.py</b></span> é o arquivo do desafio 1 - criar um sistema bancário</p>
+<p>Arquivo <span style="color: blue;"><b>Optmus_Main.py</b></span> é o arquivo do desafio 2 - Otimizar o sistema bancário</p>
 
 <p>Utilização:</p>
 <p>Selecionar uma das opções do Menu</p>
